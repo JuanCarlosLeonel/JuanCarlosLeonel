@@ -5,7 +5,7 @@
   <a href = "mailto:juan.leonel@alunos.unis.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juan-carlos-batista-leonel-587a2a1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <a href="https://juanleonel.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu%20porf%C3%B3lio-Portf%C3%B3lio-green" target="_blank"></a> 
+  <a href="https://juanleonel.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu%20porf%C3%B3lio-Portf%C3%B3lio-green" target="_blank"></a> 
 
 - 🔭 Desenvolvedor web full stack com uma forte base em Python/Django...
 - 🌱 No momento estudando React ...
