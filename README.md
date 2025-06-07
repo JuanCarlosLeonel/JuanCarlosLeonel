@@ -6,8 +6,8 @@
   
   <a href="https://juanleonel.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu%20porf%C3%B3lio-Portf%C3%B3lio-green" target="_blank"></a> 
 
-- 🔭 Desenvolvedor web full stack com uma forte base em Python/Django...
-- 🌱 No momento estudando React ...
+- 🔭 Desenvolvedor web full stack com uma forte base em Python/Django | Php/Laravel...
+- 🌱 No momento estudando React Native, e especializando em automação de microcontroladores(C++, MicroPython)
 <div align="center">
   <a href="https://github.com/JuanCarlosLeonel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCarlosLeonel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
